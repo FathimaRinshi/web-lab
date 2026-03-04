@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<head>
+	<titile>College</title>
+</head>
+
+<body>
+<h2>ST.GEORGE'S COLLEGE ARUVITHURA</h2>
+<p><strong>St. George's College Aruvithura</strong> is a college under Mahatma Gandhi University, Kottayam. It is located in Aruvithura, Erattupetta, Kottayam District in Kerala, India. It was reaccredited with'<strong>A++</strong>' Grade by NAAC for seven years in the fourth cycle.
+<ol>
+	<li>B.sc (Honours) Mathematics</li>
+	<li>B.sc (Honours) Physics</li>
+	<li>B.A (Honours) English with specialization in media studies & film studies</li>
+	<li>B.sc (Honours) Chemistry</li>
+	<li>B.A (Honours) Economics</li>
+	<li>B.sc (Honours) Botany</li>
+	<li>BCA (Honours)with specialization in Data science & Full stack development</li>
+</ol>
+<h3>Department of computer application</h3>
+<table border="1">		
+<tr>
+<th>Name</th>
+<th>Designation</th>
+</tr>
+<tr>
+<td>dr.Jestin Joy</td>
+<td>Assistant Professor,HOD</td>
+</tr>
+<tr>
+<td>Dr.Gemini George</td>
+<td>Assistant Professor</td>
+</tr>
+<tr>
+<td>Dr.Anu thomas</td>
+<td>Assistant Professor</td>
+</tr>
+<tr>
+<td>Dr.Soumya George</td>
+<td>Assistant Professor</td>
+</tr>
+<tr>
+<td>Linu T James</td>
+<td>Assistant Professor</td>
+</tr>
+</body>
+
+</html>

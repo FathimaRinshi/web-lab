@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<head>
+	<link rel="stylesheet" href="style.css">
+	<title>college</title>	
+</head>
+<style>
+p{
+  color:green;
+  font-size:20px;
+ }
+ </style>
+<body>
+<h2>ST.GEORGE'S COLLEGE ARUVITHURA</h2>
+<p style="color:red;font-size:18px;"><strong>St. George's College Aruvithura</strong> is a college under Mahatma Gandhi University, Kottayam. It is located in Aruvithura, Erattupetta, Kottayam District in Kerala, India. It was reaccredited with'<strong>A++</strong>' Grade by NAAC for seven years in the fourth cycle.
+<img src="clgpic.jpg" height="350" width="650"alt="college image">
+<p>St. George’s College Aruvithura, is a minority educational institution founded by St. George Forane Church, Aruvithura in 1965. Pioneered under the patronage of His Excellency Mar Sebastian Vayalil, the first Bishop of Pala, and cherished by a host of visionaries and philanthropists like Very Rev. Fr. Thomas Araythinal and Mr T. A. Thomman (Former Minister), the college, right from its inception, embarked on an odyssey towards academic pre-eminence. Very Rev. Fr. Thomas Manakkat, the founding manager and a great visionary, was truly instrumental in laying the foundations for a great beginning and Very Rev. Fr. Jacob Thazhathel, who followed him, was equally adept and insightful in his ideals, guiding the college during the early stages of its growth. For more than two decades, His Excellency Mar Joseph Pallickaparampil, the Bishop of Pala, had been the patron of the college. His Excellency Mar Joseph Kallarangattu is the present patron of this seat of learning.</p>
+<h3>PROGRAMMES</h3>
+<ol>
+	<li>UG</li>
+	<li>PG</li>
+	<li>PhD</li>
+	<li>Open Course</li>
+	<li>Certificate Course</li>
+</ol>
+<h3>COURSES OFFERED</h3>
+<h4>Aided</h4>
+<ol>
+	<li>B.sc(Honours)Mathematics</li>
+	<li>B.sc(Honours)Physics</li>
+	<li>B.sc(Honours)Chemistry</li>
+	<li></li>
+	<li>B.sc(Honours)Botany</li>
+	<li>B.sc(Honours)Polotical Science</li>
+	<li>B.A(Honours)English With Specialization in Media Studies & Film Studies</li>
+	<li>BCA(Honours)With Specialization in Data Science & Full Stack Development</li>
+	<li>B.Com(Honours)With Specialization in Finance & Taxation</li>
+</ol>
+<h4>self</h4>
+<ol>
+	<li>B.Com(Honours)With Specialization in Finance & Taxation</li>
+	<li>B.Com(Honours)With Specialization in Finance and Taxation & Accounting </li>
+	<li>B.Com (Honours) with Specialization in Financial Markets & Logistics Management</li>
+	<li>B.Com (Honours) with Specialization in Co-Operation & Accounting</li>
+	<li>B.A (Honours) Journalism & Mass Communication</li>
+	<li>B.Sc (Honours) Food Science & Quality Control with specialization in Food Saftey</li>
+	<li>B.Voc Food Technology & Analysis</li>
+	<li>BCA (Honours) with Specialization in Artificial Intelligence and Machine Learning & Full Stack Devel</li>
+</ol>
+<h3>DEPARTMENTS</h3>
+<ol>
+	<li>Department of Botany and Zoology</li>
+	<li>Department of Chemistry </li>
+	<li>Department of Commerce</li>
+	<li>Department of Computer Applications</li>
+	<li>Department of Economics</li>
+	<li>Department of English</li>
+	<li>Department of Food Science and Technology</li>
+	<li>Department of Hindi and Malayalam</li>
+	<li>Department of Mathematics and Statistics</li>
+	<li>Department of Physics</li>
+	<li>Department of Political Science and History</li>
+</ol>
+<h3>FACULTIES</h3>
+<ul>
+	<li><a href="">Department of Botany and Zoology</a></li>
+	<li><a href="">Department of Chemistry</a></li>
+	<li><a href="">Department of Commerce</a></li>
+	<li><a href="">Department of Computer Applications</a></li>
+	<li><a href="">Department of Economics</a></li>
+	<li><a href="">Department of English</a></li>
+	<li><a href="">Department of Food Science and Technology</a></li>
+	<li><a href="">Department of Hindi and Malayalam</a></li>
+	<li><a href="">Department of Mathematics and Statistics</a></li>
+	<li><a href="">Department of Physics</a></li>
+	<li><a href="">Department of Political Science and History</a></li>
+</ul>
+<h3>LIBRARY</h3>	
+</body>
+<li><a href="https://sgcaruvithura.ac.in/library">Library</a></li></ul>
+Visit here for more details..<a href="https://sgcaruvithura.ac.in/index.html">College website</a>
+</html>

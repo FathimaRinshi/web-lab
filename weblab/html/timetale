@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Class Time Table</title>
+	<h2 align="centre">BCA 2ND SEM TIMETABLE</h2> 
+	<table border="4" align="centre">
+<tr>
+	<th></th>
+	<th>1st</th>
+	<th>2nd</th>
+	<th>3rd</th>
+	<th>4th</th>
+	<th>5th</th>
+
+</tr>
+<tr>
+	<td>Day 1</td>
+	<td>DS</td>
+	<td>OS</td>
+	<td>ENGLISH</td>
+	<td colspan="2">WEB LAB</td>
+</tr>
+<tr>
+	<td>Day 2</td>
+	<td>HINDI/MALAYALAM</td>
+	<td>DS</td>
+	<td>IC</>
+	<td>MATHS</td>
+	<td>OS</td>
+</tr>
+<tr>
+        <td>Day 3</td>
+        <td>DS</td>
+        <td>ENGLISH</td>
+        <td>HINDI/MALAYALAM</td>
+        <td>OS</td>
+        <td>MATHS</td>
+</tr>
+<tr>
+        <td>Day 4</td>
+        <td>OS</td>
+        <td>DS</td>
+        <td>ENGLISH</td>
+        <td>MATHS</td> 
+        <td>HINDI/MALAYALAM</td>
+</tr>
+<tr>
+        <td>Day 5</td>
+        <td>MATHS</td>
+        <td>IC</td>
+        <td>WEB</td>
+        <td colspan="2">DS LAB</td>
+</tr>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Example</title>
+	<style>
+	#firstp{
+		color:blue;
+	        }
+	        </style>			
+</head>
+<body>
+<p id="firstp">This is a simple paragraph</p>
+<p>This is another paragraph</p>
+<p>This is yet another paragraph
+</body>
+</html>
+

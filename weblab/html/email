@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<head>
+	<title>Image</title>
+<head>
+
+<body>
+<img src="pic.jpg" width="400" alt="orange fruit image">
+
+<body>
+
+</html>

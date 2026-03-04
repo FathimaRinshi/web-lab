@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+<head>
+	<titile>Mark List</title>
+</head>
+
+<body>
+<table border="1">
+
+<tr>
+<th>Name</th>
+<th>Roll No</th>
+<th>Subject</th>
+<th>Mark</th>
+</tr>
+
+<tr>
+<td>Aani</td>
+<td>1</td>
+<td>Mathematics</td>
+<td>75</td>
+</tr>
+<tr>
+<td>Birla</td>
+<td>2</td>
+<td>Mathematics</td>
+<td>89</td>
+<tr>
+<td>Celin</td>
+<td>3</td>
+<td>Mathematics</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Delvi</td>
+<td>4</td>
+<td>Mathematics</td>
+<td>96</td>
+</tr>
+<tr>
+<td>Fathima</td>
+<td>5</td>
+<td>Mathematics</td>
+<td>97</td>
+</tr>
+<tr>
+<td>Hamdan</td>
+<td>6</td>
+<td>Mathematics</td>
+<td>85</td>
+</tr>
+<body>
+
+</html>

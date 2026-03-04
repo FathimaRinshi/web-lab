@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resume</title>
+  
+</head>
+<body>
+  <h1 align="centre">FATHIMA RINSHI TV</h1>
+  <p align="centre">
+     Email:<a href="rinshitv.koolimadu@gmail.com">rinshitv.koolimadu@gmail.com</a><br>
+     	<p>phone:9746830266<br></p>
+     	<p>DOB:22/08/2006</p>
+    <h3>EDUCATIONAL QUALIFICATIONS</h3>
+    <ul>
+      
+      <h4>St.Georges college Aruvithura</h4>
+      <p>Bachelors of Computer Application</p><br>
+      <li>Higher Secondary passed<br>(CMR HSS KOZHIKODE)</li>
+      <li>SSLC passed(CMR HS KOZHIKODE).</li>
+        
+ <h4>CAREER OBJECTIVES</h4>
+ 
+  <p>To secure a challenging role in software development where i can apply my programming skills to contribute to organisational growth and personal development.</p> 
+    </ul>
+    
+    <h4>SKILLS</h4>
+    <ul>
+      <li><b>Programming</b>:C/C++,Javascript.</li>
+      <li>Good Typing skill.</li>
+      <li>Strong analytical and problem solving skills.</li>
+    </ul>
+      <h4>HOBBIES</h4>
+    <ul>
+      <li>Reading</li>
+      <li>drawing</li>
+      <li>singing</li>
+      
+      
+    </ul>
+  
+</body>
+
+
+</html>
+
