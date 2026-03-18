@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<input type="number" id="num1" placeholder="Enter the fisrt number">
+	<input type="text" maxlength=1 id="opr" placeholder="Enter the operator">
+	<input type="number" id="num2" placeholder="Enter the second number">
+	<input type="button" value="Submit" id="btn">
+	<p id="out"><p>
+<script>
+	document.getElementById("btn").addEventListener("click", function(){
+		let x=Number(document.getElementById("num1").value);
+		let y=document.getElementById("opr").value;
+		let z=Number(document.getElementById("num2").value);
+		let otp;
+		switch(y)
+		{
+			case "+":
+				otp=x+z;
+				break;
+			case "-":
+				otp=x-z;
+				break;
+			case "*":
+				otp=x*z;
+				break;
+			case "/":
+				otp=x/z;
+				break;
+		};
+		document.getElementById("out").innerHTML="Result: " + otp;
+	});
+</script> 
+</body>
+</html>
